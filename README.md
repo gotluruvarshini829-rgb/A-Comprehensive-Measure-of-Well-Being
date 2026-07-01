@@ -32,14 +32,28 @@ The project incorporates concepts including data collection, data preprocessing,
 - GitHub
 - Visual Studio Code
 
-### Dataset Attributes
-- Country
-- Life Expectancy at Birth (Years)
-- Expected Years of Schooling
-- Mean Years of Schooling
-- Gross National Income (GNI) per Capita
-- Human Development Index (HDI) Value
+## Features
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Well-Being Prediction
+- Data Visualization
+- Machine Learning Model Evaluation
 
+## Dataset Attributes
+- Country
+- HDI
+- Life Expectancy
+- Mean Years of Schooling
+- Gross National Income
+- Gender Development Index
+- Other Well-Being Indicators
+
+## Future Enhancements
+- Deep Learning Models
+- Interactive Dashboard
+- Real-Time Data Integration
+- Explainable AI Techniques
 ### Project Outcome
 The system provides accurate HDI predictions and helps users understand the impact of health, education, and income indicators on overall human development and well-being.
 
