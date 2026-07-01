@@ -44,4 +44,8 @@ The project incorporates concepts including data collection, data preprocessing,
 The system provides accurate HDI predictions and helps users understand the impact of health, education, and income indicators on overall human development and well-being.
 
 ###Prediction output
+
 ![Predicted Output](Predicted%20output.png)
+
+![Predicted Output 1](predicted_output.png)
+
