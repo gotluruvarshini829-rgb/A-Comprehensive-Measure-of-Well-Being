@@ -59,7 +59,7 @@ The system provides accurate HDI predictions and helps users understand the impa
 
 ###Prediction output
 
-![Predicted Output](Predicted%20output.png)
+![Predicted Output](Predicted_output.png)
 
 ![Predicted Output 1](predicted_output_[1].png)
 
